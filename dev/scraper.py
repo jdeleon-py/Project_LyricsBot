@@ -5,6 +5,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import random
 
 class Scraper:
 	'''
@@ -19,7 +20,7 @@ class Scraper:
 	def __init__(self) -> None:
 		self.opt = Options()
 		self.opt.headless = True
-		self.driver = Chrome(Scraper.DRIVER, options = self.opt)
+		self.driver = Chrome(driver = Scraper.DRIVER, options = self.opt)
 
 	def scrape_data(self, driver: object) -> str:
 		try:
@@ -30,13 +31,17 @@ class Scraper:
 		except:
 			data = ''
 		finally:
-			return "None" if not data else data
+			return "NO LYRICS FOUND" if not data else data
 
 	def process_lyrics(self, song_name: str) -> list:
 		song_name = song_name.replace(' ', '-')
 		self.driver.get("https://www.genius.com/Alex-g-{}-lyrics/".format(song_name))
-		text = self.scrape_data(self.driver)
-		return self.process_text(text)
+		text = self.scrape_data(driver = self.driver)
+		return self.process_text(text = text)
+
+	def sample_lyrics(self, text_arr: list, line_max: int) -> list:
+		index = random.randint(0, len(text_arr))
+		return text_arr[index : (index + line_max)]
 
 	@staticmethod
 	def process_text(text: str) -> list:
