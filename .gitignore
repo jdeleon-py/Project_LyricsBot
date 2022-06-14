@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Private Files
+*/login.py
+*/*.json
+
 # Mac Extension
 **/.DS_Store
 
