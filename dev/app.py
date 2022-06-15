@@ -1,6 +1,6 @@
 # TKINTER GUI CLASS
 
-from tkinter import Tk, Frame, Menu
+from tkinter import Tk, Frame
 from tkinter import Button, Label, Entry
 from tkinter import N, E, S, W, NE, NW, SE, SW
 
