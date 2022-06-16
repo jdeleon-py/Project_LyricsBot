@@ -1,15 +1,28 @@
 # Project_LyricsBot
-twitter bot to post song lyrics scraped from the web
+
+<!-- Summary of Project -->
+## Description
+This program is an approach to gain experience in API I/O by scraping information from the web to push through to 
+Twitter.com via the API
+
+This project is an exersise in the following fields of computer science:
+* API Usage
+* Web Scraping
+* GUI Development 
+
+---
 
 <!-- Link to Account -->
+Feel free to follow the accounts listed below :)
 [Alex G Twitter Bot Account](https://twitter.com)
 
 <!-- Build Specifications -->
-This project can be build using a conda virtual environment. Run this command to install the required Python libraries listed 
-in the file 'requirements.txt'.
+If you are interested in creating a similar project, the 'requirements.txt' folder contains the necessary libraries used 
+to complete this project. This project can be built using a conda virtual environment. Run this command to install the required Python libraries listed in the 
+file 'requirements.txt'.
 
 ```bash
-	conda create --name <env_name> --file requirements.txt
+conda create --name <env_name> --file requirements.txt
 ```
 
 ---
