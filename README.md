@@ -1,14 +1,23 @@
 # Project_LyricsBot
 
 <!-- Summary of Project -->
-## Description
-This program is an approach to gain experience in API I/O by scraping information from the web to push through to 
-Twitter.com via the API
+## Summary
+This program is an approach to gain experience in API I/O by scraping information from the web to post on Twitter via 
+the Twitter API.
 
 This project is an exersise in the following fields of computer science:
 * API Usage
 * Web Scraping
 * GUI Development 
+
+---
+<!-- Description -->
+## Description
+### Twitter API
+
+### Web Scraper
+
+### GUI Development
 
 ---
 
