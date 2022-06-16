@@ -23,7 +23,7 @@ This project is an exersise in the following fields of computer science:
 
 <!-- Link to Account -->
 Feel free to follow the accounts listed below :)
-[Alex G Twitter Bot Account](https://twitter.com)
+[Alex G Twitter Bot Account](https://twitter.com/houseofsugarbot)
 
 <!-- Build Specifications -->
 If you are interested in creating a similar project, the 'requirements.txt' folder contains the necessary libraries used 
