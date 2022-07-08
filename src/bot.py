@@ -6,11 +6,12 @@ from login import Login
 class Bot:
 	'''
 	| METHODS:
-	| - ability to send a tweet with randomly selected lyrics
-	| - ability to like tweets that are relevant to the automated account
+	| - ability to initialize the API for secure use (posting only for now)
+	| - ability to send a tweet with user-processed data
 	|
 	| ATTRIBUTES:
-	| -
+	| - authorized token using (secret) login codes
+	| - the actual bot object (following authorization)
 	'''
 	def __init__(self):
 		self.auth = OAuth(token = Login.ACCESS_TOKEN, 

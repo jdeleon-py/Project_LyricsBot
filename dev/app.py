@@ -11,10 +11,25 @@ from bot import Bot
 class App(Lyric):
 	'''
 	| METHODS:
-	| -
+	| - ability to add a line of lyrics before the current sample
+	| - ability to remove a line of lyrics before the current sample
+	| - ability to add a line of lyrics after the current sample
+	| - ability to remove a line of lyrics after the current sample
+	| - ability to choose a random song and then scrape the web for a sample of the artist's song
+	| - ability to use the Twitter API to post the current sample on Twitter
 	|
 	| ATTRIBUTES:
-	| -
+	| - inherited Lyric data object
+	| - Tkinter Interface with the following properties:
+	| 		- a label displaying the chosen album name
+	| 		- a label displaying the chosen song name
+	| 		- a label displaying the chosen sample array
+	| 		- a button to add a line of lyrics to the beginning of the chosen sample
+	| 		- a button to remove a line of lyrics from the beginning of the chosen sample
+	| 		- a button to add a line of lyrics to the end of the chosen sample
+	| 		- a button to remove a line of lyrics from the end of the chosen sample
+	|		- a button to initialize the scraping process to produce a sample of lyrics
+	|		- a button to initialize the Twitter API to post the present sample 
 	'''
 	def __init__(self, master: object) -> None:
 		Lyric.__init__(self)
@@ -82,41 +97,70 @@ class App(Lyric):
 		self.lyrics_label.grid(row = 2, rowspan = 4, column = 1)
 
 	def add_before(self) -> None:
+		'''
+		- adds the line of lyrics prior to the sample to the sample's beginning
+		- updates in real time
+		'''
 		self.sample_index_min -= 1
 		self.sample_index_min = max(self.sample_index_min, 0)
 		self.sample = self.sample_lyrics()
 		self.lyrics_label.configure(text = "Lyrics: {}".format(self.sample))
 
 	def add_after(self) -> None:
+		'''
+		- adds the line of lyrics preceding the sample to the sample's end
+		- updates in real time
+		'''
 		self.sample_index_max += 1
 		self.sample_index_max = min(self.sample_index_max, len(self.lyrics) - 1)
 		self.sample = self.sample_lyrics()
 		self.lyrics_label.configure(text = "Lyrics: {}".format(self.sample))
 
 	def rem_before(self) -> None:
+		'''
+		- removes the line of lyrics prior to the sample from the sample's beginning
+		- updates in real time
+		'''
 		self.sample_index_min += 1
 		self.sample_index_min = max(self.sample_index_min, 0)
 		self.sample = self.sample_lyrics()
 		self.lyrics_label.configure(text = "Lyrics: {}".format(self.sample))
 
 	def rem_after(self) -> None:
+		'''
+		- removes the line of lyrics preceding the sample to the sample's end
+		- updates in real time
+		'''
 		self.sample_index_max -= 1
 		self.sample_index_max = min(self.sample_index_max, len(self.lyrics) - 1)
 		self.sample = self.sample_lyrics()
 		self.lyrics_label.configure(text = "Lyrics: {}".format(self.sample))
 
 	def tweet(self) -> None:
+		'''
+		- initializes the Twitter API bot object and tweets what 
+		  the current sample is displaying
+		- once the bot has been used, the sample is included in with an 
+		  accumlating file representing the lyrics used to date
+		'''
 		bot = Bot()
 		bot.send_tweet(data = self.sample)
 		self.add_unique_lyrics()
 
 	def choose(self) -> None:
+		'''
+		- chooses the song randomly, then chooses lyrics randomly from the
+		  selected song
+		'''
 		self.album, self.song = self.get_song()
 		self.album_label.configure(text = "Album: {}".format(self.album))
 		self.song_label.configure(text = "Song: {}".format(self.song))
 		self.get_lyrics()
 
 	def get_lyrics(self) -> None:
+		'''
+		- uses the Selenium library to scrape and process the lyrics sample data
+		'''
 		scraper = Scraper()
 		self.lyrics = scraper.process_lyrics(song_name = self.song)
 		self.sample_index_min, self.sample_index_max = self.random_index()
