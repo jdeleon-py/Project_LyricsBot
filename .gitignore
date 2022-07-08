@@ -8,7 +8,6 @@ __pycache__/
 
 # Private Files
 */login.py
-*/*.json
 
 # Mac Extension
 **/.DS_Store
