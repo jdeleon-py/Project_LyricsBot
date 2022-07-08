@@ -29,6 +29,7 @@ This project is an exersise in the following fields of computer science:
 
 * Front-end of the application (user-friendly and not completely automated)
 ![Lyrics Bot GUI Front End](app_frontend.png)
+<img src="app_frontend.png" width="48">
 
 <!-- Task List -->
 ## Task List
