@@ -27,6 +27,9 @@ This project is an exersise in the following fields of computer science:
 	* Samples are typically about three lines long.
 	* The application can add/remove lines before/after the sample, to make the sample more coherent.
 
+* Front-end of the application (user-friendly and not completely automated)
+![Lyrics Bot GUI Front End](app_frontend.png)
+
 <!-- Task List -->
 ## Task List
 * [X] save the lyric data used to a json file 
