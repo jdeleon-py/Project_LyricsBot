@@ -43,6 +43,7 @@ interval
 
 <!-- Link to Account -->
 Feel free to follow the accounts listed below :)
+
 [Alex G Twitter Bot Account](https://twitter.com/houseofsugarbot)
 
 <!-- Build Specifications -->
