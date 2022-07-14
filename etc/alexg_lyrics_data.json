@@ -367,6 +367,38 @@
                 "I know now what I want",
                 "I know now"
             ]
+        },
+        {
+            "Album": "Race",
+            "Song": "The Same",
+            "Sample Index Min": 20,
+            "Sample Index Max": 24,
+            "Lyrics": [
+                "They don't know you're not there",
+                "Too fast, too slow, too late",
+                "You are never gonna make it",
+                "You're never gonna make it"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Soaker",
+            "Sample Index Min": 6,
+            "Sample Index Max": 8,
+            "Lyrics": [
+                "I'm like water and you're like glue",
+                "I'm like water and you're like glue"
+            ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "String",
+            "Sample Index Min": 0,
+            "Sample Index Max": 2,
+            "Lyrics": [
+                "I do believe you're moving at a pace",
+                "A little bit too slow for my taste"
+            ]
         }
     ]
 }
