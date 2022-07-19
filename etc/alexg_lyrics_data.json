@@ -399,6 +399,52 @@
                 "I do believe you're moving at a pace",
                 "A little bit too slow for my taste"
             ]
+        },
+        {
+            "Album": "Beach Music",
+            "Song": "Station",
+            "Sample Index Min": 16,
+            "Sample Index Max": 20,
+            "Lyrics": [
+                "Took time off to make a deal with myself",
+                "If I could keep this bottle up on the shelf",
+                "I'd drink a different drink for a while",
+                "And love my body love my style"
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "Go Away",
+            "Sample Index Min": 4,
+            "Sample Index Max": 7,
+            "Lyrics": [
+                "I went down to the bottom of the great, great lakes",
+                "And there's hundreds of mothers there to come and love me",
+                "I saw your reflection in my face, face, face so I scrubbed it all around until it erased"
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "House",
+            "Sample Index Min": 2,
+            "Sample Index Max": 5,
+            "Lyrics": [
+                "So, don't worry honey, you'll go right back",
+                "Where you started from",
+                "Benny saved, saved a spot for you"
+            ]
+        },
+        {
+            "Album": "Rocket",
+            "Song": "Proud",
+            "Sample Index Min": 8,
+            "Sample Index Max": 12,
+            "Lyrics": [
+                "If I sink",
+                "I don't wanna be the one to leave my baby out without no bottle to drink",
+                "If I sink",
+                "I don't wanna be the one to leave my baby down without no money in her bank"
+            ]
         }
     ]
 }
