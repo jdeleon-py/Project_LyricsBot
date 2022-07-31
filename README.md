@@ -36,7 +36,7 @@ This project is an exersise in the following fields of computer science:
 * [ ] attach more than one artist to the project
 * [ ] use the lyric data to automate the program such that only unique lyrics are displayed
 * [ ] optimize the scraper such an output is produced faster
-* [ ] perfect the text-filtering mechanism to not produce messy lyrical outputs
+* [X] perfect the text-filtering mechanism to not produce messy lyrical outputs
 * [ ] once a user is no longer needed, design a cron job script for lyrics to automatically be posted after a specified 
 interval
 ---

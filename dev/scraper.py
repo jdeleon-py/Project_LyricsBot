@@ -54,11 +54,16 @@ class Scraper:
 
 	def process_text(self, text: str) -> list:
 		'''
-		- splits text based on lines, separated by
+		- filters the lyric data by
+			- giving each line their own array index
+			- removing any extra indices with no data present
+			- removing any instrumental queues enclosed by "[]"
+			- removing any metadata ads for other songs with '|' char present
 		'''
 		text_arr = text.split('\n')
 		text_arr = list(filter(None, text_arr))
 		text_arr = [line for line in text_arr if not '[' in line]
+		text_arr = [line for line in text_arr if not '|' in line]
 		return text_arr
 
 	def quit_scraper(self) -> None: self.driver.quit()
