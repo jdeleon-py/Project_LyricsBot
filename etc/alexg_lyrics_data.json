@@ -445,6 +445,171 @@
                 "If I sink",
                 "I don't wanna be the one to leave my baby down without no money in her bank"
             ]
+        },
+        {
+            "Album": "House of Sugar",
+            "Song": "Southern Sky",
+            "Sample Index Min": 6,
+            "Sample Index Max": 10,
+            "Lyrics": [
+                "I will remember the trouble in my",
+                "Brother\u2019s eye",
+                "It\u2019s okay we don\u2019t cry, we love the southern sky",
+                "It\u2019s okay we don\u2019t cry, we love the southern sky"
+            ]
+        },
+        {
+            "Album": "God Save the Animals",
+            "Song": "Blessing",
+            "Sample Index Min": 12,
+            "Sample Index Max": 16,
+            "Lyrics": [
+                "If I live (If I live)",
+                "Like the fishes (Like the fishes)",
+                "I will rise (I will rise)",
+                "From the flood (From the flood)"
+            ]
+        },
+        {
+            "Album": "Beach Music",
+            "Song": "In Love",
+            "Sample Index Min": 19,
+            "Sample Index Max": 22,
+            "Lyrics": [
+                "I'm running in love",
+                "Losing in love",
+                "Scratching in love"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "Candy",
+            "Sample Index Min": 9,
+            "Sample Index Max": 12,
+            "Lyrics": [
+                "Keep the water inside you",
+                "You will speak when spoken to",
+                "Just like candy, you'll go down"
+            ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "Kute",
+            "Sample Index Min": 19,
+            "Sample Index Max": 22,
+            "Lyrics": [
+                "You really wanna see us laughin'",
+                "At your body",
+                "Floating down the river"
+            ]
+        },
+        {
+            "Album": "God Save the Animals",
+            "Song": "Runner",
+            "Sample Index Min": 21,
+            "Sample Index Max": 24,
+            "Lyrics": [
+                "(Load it up, know your trigger like the back of my hand)",
+                "(Load it up, know your trigger like the back of my hand)",
+                "(Load it up, know your trigger like the back of my hand)"
+            ]
+        },
+        {
+            "Album": "Rocket",
+            "Song": "Guilty",
+            "Sample Index Min": 2,
+            "Sample Index Max": 6,
+            "Lyrics": [
+                "Do you think that you'd be happier",
+                "With no one else around?",
+                "Are you hiding?",
+                "Will the trial never come?"
+            ]
+        },
+        {
+            "Album": "Rocket",
+            "Song": "County",
+            "Sample Index Min": 11,
+            "Sample Index Max": 15,
+            "Lyrics": [
+                "He swallowed a razor",
+                "See I got some stories",
+                "Hey, why don't you write that",
+                "Into a song maybe?"
+            ]
+        },
+        {
+            "Album": "Rocket",
+            "Song": "Brick",
+            "Sample Index Min": 1,
+            "Sample Index Max": 5,
+            "Lyrics": [
+                "Every time you tell me something untrue",
+                "Puts a brick in the wall between me and you",
+                "I know that you're lying",
+                "You think I don't but I always fucking do"
+            ]
+        },
+        {
+            "Album": "Rocket",
+            "Song": "Guilty",
+            "Sample Index Min": 9,
+            "Sample Index Max": 13,
+            "Lyrics": [
+                "Have you buried all the evidence of",
+                "What you used to be?",
+                "Has the question",
+                "Become darker than the answer?"
+            ]
+        },
+        {
+            "Album": "House of Sugar",
+            "Song": "Near",
+            "Sample Index Min": 33,
+            "Sample Index Max": 36,
+            "Lyrics": [
+                "(Flower, water, earth, fire)",
+                "(Four, five, six, seven)",
+                "I saw the light (No looking; No touching)"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Serpent Is Lord",
+            "Sample Index Min": 8,
+            "Sample Index Max": 15,
+            "Lyrics": [
+                "Blood the",
+                "Body",
+                "Fortune",
+                "In me",
+                "Blood the",
+                "Body",
+                "Spill mine"
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "Tv",
+            "Sample Index Min": 0,
+            "Sample Index Max": 4,
+            "Lyrics": [
+                "I get feelings",
+                "From the TV",
+                "They can't hurt me",
+                "They don't know me"
+            ]
+        },
+        {
+            "Album": "Rocket",
+            "Song": "Sportstar",
+            "Sample Index Min": 29,
+            "Sample Index Max": 32,
+            "Lyrics": [
+                "95 to sport star",
+                "If I make it back on",
+                "I don't wanna live long"
+            ]
         }
     ]
 }
