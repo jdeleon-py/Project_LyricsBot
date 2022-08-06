@@ -610,6 +610,77 @@
                 "If I make it back on",
                 "I don't wanna live long"
             ]
+        },
+        {
+            "Album": "God Save the Animals",
+            "Song": "Cross the Sea",
+            "Sample Index Min": 25,
+            "Sample Index Max": 29,
+            "Lyrics": [
+                "You put your foot down and I run wild, yeah",
+                "So wild, yeah",
+                "You see now that nothing is final",
+                "I cut myself into vinyl"
+            ]
+        },
+        {
+            "Album": "Beach Music",
+            "Song": "Kicker",
+            "Sample Index Min": 4,
+            "Sample Index Max": 7,
+            "Lyrics": [
+                "First flight into white light",
+                "Pull the trigger, love at first bite",
+                "Big plan for a big man"
+            ]
+        },
+        {
+            "Album": "House of Sugar",
+            "Song": "Cow",
+            "Sample Index Min": 24,
+            "Sample Index Max": 27,
+            "Lyrics": [
+                "You big old cow",
+                "You draw me out",
+                "Don't put me down"
+            ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "Animals",
+            "Sample Index Min": 20,
+            "Sample Index Max": 25,
+            "Lyrics": [
+                "Her dog breath drives me insane",
+                "I do",
+                "Animals, not people",
+                "I do animals",
+                "Not people"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Icehead",
+            "Sample Index Min": 0,
+            "Sample Index Max": 4,
+            "Lyrics": [
+                "Bird got caught in a wire",
+                "Don't fly",
+                "Bad man can't grow a hole",
+                "All right"
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "Gnaw",
+            "Sample Index Min": 8,
+            "Sample Index Max": 12,
+            "Lyrics": [
+                "Dry your eyes",
+                "I won't tell your mother",
+                "She won't ever discover",
+                "The things you kept under the covers"
+            ]
         }
     ]
 }

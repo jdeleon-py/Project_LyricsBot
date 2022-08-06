@@ -43,43 +43,37 @@ class App(Lyric):
 		self.add_before_button = Button(master = self.frame, 
 										text = "Add a line before", 
 										command = self.add_before
-		)
-		self.add_before_button.grid(row = 0, column = 0, sticky = W)
+		).grid(row = 0, column = 0, sticky = W)
 
 		# Add Line After Button
 		self.add_after_button = Button(master = self.frame, 
 									   text = "Add a line after", 
 									   command = self.add_after
-		)
-		self.add_after_button.grid(row = 1, column = 0, sticky = W)
+		).grid(row = 1, column = 0, sticky = W)
 
 		# Remove Line Before Button
 		self.rem_before_button = Button(master = self.frame, 
 										text = "Remove a line before", 
 										command = self.rem_before
-		)
-		self.rem_before_button.grid(row = 2, column = 0, sticky = W)
+		).grid(row = 2, column = 0, sticky = W)
 
 		# Remove Line After Button
 		self.rem_after_button = Button(master = self.frame,
 									   text = "Remove a line after",
 									   command = self.rem_after
-		)
-		self.rem_after_button.grid(row = 3, column = 0, sticky = W)
+		).grid(row = 3, column = 0, sticky = W)
 
 		# Get Lyrics Button
 		self.choose_button = Button(master = self.frame, 
 									text = "Get a Song's Lyrics", 
 									command = self.choose
-		)
-		self.choose_button.grid(row = 4, column = 0, sticky = W)
+		).grid(row = 4, column = 0, sticky = W)
 
 		# Tweet Button
 		self.tweet_button = Button(master = self.frame, 
 								   text = "Tweet", 
 								   command = self.tweet
-		)
-		self.tweet_button.grid(row = 5, column = 0, sticky = W)
+		).grid(row = 5, column = 0, sticky = W)
 
 		# Album Label
 		self.album_label = Label(master = self.frame, text = "Album: ")
@@ -93,8 +87,7 @@ class App(Lyric):
 		self.lyrics_label = Label(master = self.frame,
 								  text = "Lyrics: ",
 								  wraplength = 100
-		)
-		self.lyrics_label.grid(row = 2, rowspan = 4, column = 1)
+		).grid(row = 2, rowspan = 4, column = 1)
 
 	def add_before(self) -> None:
 		'''
