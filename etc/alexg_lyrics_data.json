@@ -681,6 +681,19 @@
                 "She won't ever discover",
                 "The things you kept under the covers"
             ]
+        },
+        {
+            "Album": "Race",
+            "Song": "Race",
+            "Sample Index Min": 19,
+            "Sample Index Max": 24,
+            "Lyrics": [
+                "Yeah, it's not clear, it was about fear and getting out of here",
+                "But you're okay with me",
+                "Tear it down",
+                "It's not right",
+                "Tear it down"
+            ]
         }
     ]
 }
