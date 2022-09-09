@@ -694,6 +694,340 @@
                 "It's not right",
                 "Tear it down"
             ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "Forever",
+            "Sample Index Min": 18,
+            "Sample Index Max": 22,
+            "Lyrics": [
+                "Make no mistake",
+                "I will pull it together",
+                "You can love me",
+                "Forever and ever"
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "Race",
+            "Sample Index Min": 0,
+            "Sample Index Max": 3,
+            "Lyrics": [
+                "(One, two, three, okay)",
+                "You're walkin' on hot coals now, you fuck",
+                "'Cause you're a joke, yeah, you're a hoax and now I found you out"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "Water",
+            "Sample Index Min": 0,
+            "Sample Index Max": 1,
+            "Lyrics": [
+                "Water's all I need"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "New",
+            "Sample Index Min": 4,
+            "Sample Index Max": 9,
+            "Lyrics": [
+                "Jan got home after ten, woke her dad, went to bed",
+                "Woke up cold",
+                "In the night",
+                "From a voice",
+                "In her head"
+            ]
+        },
+        {
+            "Album": "Beach Music",
+            "Song": "Ready",
+            "Sample Index Min": 12,
+            "Sample Index Max": 16,
+            "Lyrics": [
+                "She came right through me",
+                "All worked up",
+                "Let back down by a memory",
+                "A word you said meant something to me"
+            ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "16 Mirrors",
+            "Sample Index Min": 6,
+            "Sample Index Max": 10,
+            "Lyrics": [
+                "Roll it in a mirror, all my work will be discovered",
+                "(This is a piece of cake working with my hands)",
+                "Let's get all the years where I was her friend",
+                "(Look at all the mirrors at the bottom of the well)"
+            ]
+        },
+        {
+            "Album": "Rocket",
+            "Song": "Powerful Man",
+            "Sample Index Min": 21,
+            "Sample Index Max": 24,
+            "Lyrics": [
+                "Ain't gonna walk into the river and disappear",
+                "I'm gonna be a powerful man",
+                "Red blood running down the broken sand"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Rejoyce",
+            "Sample Index Min": 0,
+            "Sample Index Max": 3,
+            "Lyrics": [
+                "Ash",
+                "Blowing through her hair",
+                "Blowing out the window"
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "Tv",
+            "Sample Index Min": 7,
+            "Sample Index Max": 11,
+            "Lyrics": [
+                "He don't know me",
+                "He gets lonely",
+                "He forgets me",
+                "And he bought us a TV"
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "The Same",
+            "Sample Index Min": 16,
+            "Sample Index Max": 20,
+            "Lyrics": [
+                "Everybody loves you",
+                "Your smile, your teeth, your hair",
+                "They don't know you're not there",
+                "They don't know you're not there"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "Candy",
+            "Sample Index Min": 4,
+            "Sample Index Max": 6,
+            "Lyrics": [
+                "Just like candy, you'll go down",
+                "Stain my teeth and rot my mouth"
+            ]
+        },
+        {
+            "Album": "God Save the Animals",
+            "Song": "Runner",
+            "Sample Index Min": 5,
+            "Sample Index Max": 8,
+            "Lyrics": [
+                "I laugh when you say the wrong thing",
+                "Mouthing off to everybody else but me",
+                "They hit you with the rolled up magazine"
+            ]
+        },
+        {
+            "Album": "Rocket",
+            "Song": "Witch",
+            "Sample Index Min": 0,
+            "Sample Index Max": 5,
+            "Lyrics": [
+                "Dirty old pig",
+                "He lost his mind",
+                "He walked on the outside",
+                "He played dumb",
+                "He ate his pride"
+            ]
+        },
+        {
+            "Album": "God Save the Animals",
+            "Song": "Cross the Sea",
+            "Sample Index Min": 10,
+            "Sample Index Max": 14,
+            "Lyrics": [
+                "You take care of me",
+                "You take care of me",
+                "You take care of me",
+                "You take care of me"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "Wicked Boy",
+            "Sample Index Min": 14,
+            "Sample Index Max": 18,
+            "Lyrics": [
+                "And you think you wanna die",
+                "But I watch you close your eyes",
+                "Oh, it's alright",
+                "Wicked boy"
+            ]
+        },
+        {
+            "Album": "God Save the Animals",
+            "Song": "Cross the Sea",
+            "Sample Index Min": 24,
+            "Sample Index Max": 27,
+            "Lyrics": [
+                "You see how I make you smile, yeah",
+                "You put your foot down and I run wild, yeah",
+                "So wild, yeah"
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "Remember",
+            "Sample Index Min": 0,
+            "Sample Index Max": 2,
+            "Lyrics": [
+                "I've come here to kill my maker",
+                "'Cause I'd feel much safer alone"
+            ]
+        },
+        {
+            "Album": "House of Sugar",
+            "Song": "Bad Man",
+            "Sample Index Min": 9,
+            "Sample Index Max": 13,
+            "Lyrics": [
+                "When the bomb dropped, I was 22",
+                "Buried under black dirt, how about you?",
+                "When the bomb dropped, I was 25",
+                "Lying in the grass under tangerine sky"
+            ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "Animals",
+            "Sample Index Min": 0,
+            "Sample Index Max": 4,
+            "Lyrics": [
+                "I get sick when I get stoned",
+                "Everything we do, we do it alone",
+                "I get sick when I get stoned",
+                "Everything we do, we do it alone"
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "The Same",
+            "Sample Index Min": 0,
+            "Sample Index Max": 3,
+            "Lyrics": [
+                "I was a girl",
+                "I was the only kid in the world, I thought I knew",
+                "What it meant to you"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "Come Back",
+            "Sample Index Min": 3,
+            "Sample Index Max": 6,
+            "Lyrics": [
+                "Took my medicine, then spit it on the ground",
+                "The fingers down my throat, they make a gurgle sound",
+                "The slimy little pill is keeping you around"
+            ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "Mary",
+            "Sample Index Min": 8,
+            "Sample Index Max": 12,
+            "Lyrics": [
+                "\"Listen to me, baby, I don't mind",
+                "I wanna be with you and waste my time\"",
+                "\"Give it to me, baby, I feel good I wanna",
+                "Feel whatever you think I should\""
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "Trash",
+            "Sample Index Min": 10,
+            "Sample Index Max": 14,
+            "Lyrics": [
+                "The world is a really scary place",
+                "But I know from the look that's on your face",
+                "Your life has been over way before it all began",
+                "If you don't want to be lonely, then I can be your man"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Boy",
+            "Sample Index Min": 18,
+            "Sample Index Max": 22,
+            "Lyrics": [
+                "Feel like a million eyes on me",
+                "Feel like a cannon ball I see",
+                "A tree, it loses all its leaves",
+                "And you are dead to me"
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "Remember",
+            "Sample Index Min": 7,
+            "Sample Index Max": 11,
+            "Lyrics": [
+                "Please don't help me, oh",
+                "Please don't help me, oh",
+                "Please don't help me, oh",
+                "Please don't help me, oh"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "Rules",
+            "Sample Index Min": 18,
+            "Sample Index Max": 23,
+            "Lyrics": [
+                "We're tools",
+                "I won't believe",
+                "Hate my need",
+                "To be a little part of",
+                "A machine"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "Good",
+            "Sample Index Min": 10,
+            "Sample Index Max": 13,
+            "Lyrics": [
+                "(It takes a plan from hell to do this well",
+                "It takes a plan from hell to do this well)",
+                "Stay here with me"
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "Crab",
+            "Sample Index Min": 17,
+            "Sample Index Max": 20,
+            "Lyrics": [
+                "Do you miss me, Stephanie",
+                "'Cause I'm really missing you",
+                "Where you are"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "Message",
+            "Sample Index Min": 1,
+            "Sample Index Max": 4,
+            "Lyrics": [
+                "But every day, I feel the same",
+                "And when I feel like I got no one",
+                "At least I can hear the rain"
+            ]
         }
     ]
 }
