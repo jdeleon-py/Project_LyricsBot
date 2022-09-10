@@ -5,7 +5,7 @@
 This program is an approach to gain experience in API I/O by scraping information from the web to post on Twitter via 
 the Twitter API.
 
-This project is an exersise in the following fields of computer science:
+This project is an exercise in the following fields of computer science:
 * API Usage
 * Web Scraping
 * GUI Development 
@@ -35,7 +35,7 @@ This project is an exersise in the following fields of computer science:
 * [X] save the lyric data used to a json file 
 * [ ] attach more than one artist to the project
 * [ ] use the lyric data to automate the program such that only unique lyrics are displayed
-* [ ] optimize the scraper such an output is produced faster
+* [ ] optimize the scraper so an output is produced faster
 * [X] perfect the text-filtering mechanism to not produce messy lyrical outputs
 * [ ] once a user is no longer needed, design a cron job script for lyrics to automatically be posted after a specified 
 interval
