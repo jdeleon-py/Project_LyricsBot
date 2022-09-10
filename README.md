@@ -25,7 +25,7 @@ This project is an exersise in the following fields of computer science:
 * A base class (lyric.py) is created to represent the backend data class of the application.
 * The app displays a smaple of lyrics from a randomly chosen song.
 	* Samples are typically about three lines long.
-	* The application can add/remove lines before/after the sample, to make the sample more coherent.
+	* To make the sample more coherent, the application can add/remove lines before/after the sample.
 
 * Front-end of the application (user-friendly and not completely automated)
 ![Lyrics Bot GUI Front End](app_frontend.png)

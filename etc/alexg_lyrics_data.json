@@ -1028,6 +1028,18 @@
                 "And when I feel like I got no one",
                 "At least I can hear the rain"
             ]
+        },
+        {
+            "Album": "Rocket",
+            "Song": "Proud",
+            "Sample Index Min": 16,
+            "Sample Index Max": 20,
+            "Lyrics": [
+                "I'm so proud of you",
+                "And everything that you do",
+                "Doesn't matter what I said",
+                "I'm better off dead"
+            ]
         }
     ]
 }
