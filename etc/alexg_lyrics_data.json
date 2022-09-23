@@ -1040,6 +1040,136 @@
                 "Doesn't matter what I said",
                 "I'm better off dead"
             ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Icehead",
+            "Sample Index Min": 8,
+            "Sample Index Max": 12,
+            "Lyrics": [
+                "Ice went straight to my head",
+                "I said",
+                "Blood went straight to my head",
+                "I said"
+            ]
+        },
+        {
+            "Album": "Beach Music",
+            "Song": "In Love",
+            "Sample Index Min": 9,
+            "Sample Index Max": 13,
+            "Lyrics": [
+                "Talking in love",
+                "Waiting in love",
+                "Well I won't rock the boat",
+                "I don't buy just to sell"
+            ]
+        },
+        {
+            "Album": "Rocket",
+            "Song": "Judge",
+            "Sample Index Min": 0,
+            "Sample Index Max": 4,
+            "Lyrics": [
+                "All the time",
+                "I try to recall",
+                "What drove you away from here?",
+                "What was dream and what was real?"
+            ]
+        },
+        {
+            "Album": "House of Sugar",
+            "Song": "Crime",
+            "Sample Index Min": 24,
+            "Sample Index Max": 28,
+            "Lyrics": [
+                "Let me kill my mind",
+                "Careful what you do",
+                "Or I'm leaving without you",
+                "Careful what you do"
+            ]
+        },
+        {
+            "Album": "House of Sugar",
+            "Song": "Gretel",
+            "Sample Index Min": 13,
+            "Sample Index Max": 17,
+            "Lyrics": [
+                "I don\u2019t wanna go back",
+                "Nobody\u2019s gonna push me off track, uh huh",
+                "I don\u2019t wanna be this",
+                "Good people gotta fight to exist, uh huh"
+            ]
+        },
+        {
+            "Album": "Beach Music",
+            "Song": "Brite Boy",
+            "Sample Index Min": 10,
+            "Sample Index Max": 13,
+            "Lyrics": [
+                "Bright boy, what has made you frown?",
+                "Bright boy, what has made you",
+                "Waiting by the water"
+            ]
+        },
+        {
+            "Album": "House of Sugar",
+            "Song": "Walk Away",
+            "Sample Index Min": 1,
+            "Sample Index Max": 4,
+            "Lyrics": [
+                "Not today, not today",
+                "Not today, not today",
+                "Not today, not today"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Harvey",
+            "Sample Index Min": 8,
+            "Sample Index Max": 12,
+            "Lyrics": [
+                "I love winning, baby, I want it all",
+                "I wanna prove that I got the balls",
+                "Harvey keeps on playing with his food",
+                "He doesn't understand what big boys do"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Black Hair",
+            "Sample Index Min": 0,
+            "Sample Index Max": 4,
+            "Lyrics": [
+                "Black hair, it's swimming in my head",
+                "Black hair, it's bigger than death",
+                "Black hair, don't leave me in the dirt",
+                "Black hair, I'll show you what I'm worth"
+            ]
+        },
+        {
+            "Album": "Beach Music",
+            "Song": "Kicker",
+            "Sample Index Min": 10,
+            "Sample Index Max": 14,
+            "Lyrics": [
+                "Rain comin' down, thinking hey",
+                "Maybe we should turn this boat around",
+                "Heaven - maybe freedom",
+                "What's the word? Right, I forgot"
+            ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "Whale",
+            "Sample Index Min": 0,
+            "Sample Index Max": 4,
+            "Lyrics": [
+                "My favorite animal is the whale",
+                "I like his big fat tail",
+                "I like his big fat tail",
+                "I wanna cut off a piece of him, and I'll share"
+            ]
         }
     ]
 }
