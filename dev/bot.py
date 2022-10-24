@@ -13,17 +13,21 @@ class Bot:
 	| - authorized token using (secret) login codes
 	| - the actual bot object (following authorization)
 	'''
-	def __init__(self):
+	def __init__(self) -> None:
+		'''
 		self.auth = OAuth(token = Login.ACCESS_TOKEN, 
 						  token_secret = Login.ACCESS_TOKEN_SECRET, 
 						  consumer_key = Login.API_KEY, 
 						  consumer_secret = Login.API_KEY_SECRET
 		)
 		self.bot = Twitter(auth = self.auth)
+		'''
+		print("Bot Initiated!")
 
 	def send_tweet(self, data: list) -> None:
 		text = '\n'.join(data)
-		self.bot.statuses.update(status = text)
+		print("{}".format(text))
+		# self.bot.statuses.update(status = text)
 		print("Tweet sent successfully!")
 
 
