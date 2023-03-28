@@ -1464,6 +1464,977 @@
                 "And every time I wake",
                 "I second guess the game I played"
             ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "Fighting",
+            "Sample Index Min": 1,
+            "Sample Index Max": 7,
+            "Lyrics": [
+                "Tonight",
+                "I wanna fight",
+                "My sweetheart's comin' down",
+                "One more smack on me",
+                "You'll see my",
+                "Knuckles start to bleed"
+            ]
+        },
+        {
+            "Album": "God Save the Animals",
+            "Song": "Forgive",
+            "Sample Index Min": 11,
+            "Sample Index Max": 15,
+            "Lyrics": [
+                "I choose",
+                "We build",
+                "Castle upon castle upon castle",
+                "Upon air"
+            ]
+        },
+        {
+            "Album": "Rocket",
+            "Song": "Poison Root",
+            "Sample Index Min": 4,
+            "Sample Index Max": 8,
+            "Lyrics": [
+                "Crushed it up and boiled my tea",
+                "Crushed it up and boiled my tea",
+                "Now I know everything",
+                "Now I know everything"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "Rules",
+            "Sample Index Min": 8,
+            "Sample Index Max": 13,
+            "Lyrics": [
+                "When I go, you'll know",
+                "By my footprints in the snow",
+                "Mama says \"where'd you go?\"",
+                "Daddy says \"where'd you go?\"",
+                "Baby says \"don't you go\""
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "Things to Do",
+            "Sample Index Min": 12,
+            "Sample Index Max": 15,
+            "Lyrics": [
+                "Yeah, I see it in its face",
+                "Hold on tight to this time, this place",
+                "'Cause everything you know will be erased"
+            ]
+        },
+        {
+            "Album": "Beach Music",
+            "Song": "Mud",
+            "Sample Index Min": 12,
+            "Sample Index Max": 15,
+            "Lyrics": [
+                "I know something you don't know",
+                "Trouble coming to your home",
+                "Wake up and you're all alone"
+            ]
+        },
+        {
+            "Album": "God Save the Animals",
+            "Song": "Immunity",
+            "Sample Index Min": 2,
+            "Sample Index Max": 5,
+            "Lyrics": [
+                "I have to put the cocaine in the vaccine",
+                "Walk out of the doctor with immunity",
+                "Life of revelation catching up with me"
+            ]
+        },
+        {
+            "Album": "God Save the Animals",
+            "Song": "Miracles",
+            "Sample Index Min": 21,
+            "Sample Index Max": 25,
+            "Lyrics": [
+                "After all, there's no way up from apathy, yeah",
+                "You and me, we got better pills than ecstasy",
+                "They're miracles and crosses",
+                "Miracles and crosses, miracles and crosses"
+            ]
+        },
+        {
+            "Album": "House of Sugar",
+            "Song": "Cow",
+            "Sample Index Min": 4,
+            "Sample Index Max": 8,
+            "Lyrics": [
+                "I see the red sky",
+                "You always ask me why",
+                "I find myself on corners",
+                "Every once in awhile"
+            ]
+        },
+        {
+            "Album": "Rocket",
+            "Song": "Sportstar",
+            "Sample Index Min": 1,
+            "Sample Index Max": 6,
+            "Lyrics": [
+                "If you want me, I'll call",
+                "If you want me to fall",
+                "I'll fall",
+                "My dream",
+                "Let me play on your team"
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "House",
+            "Sample Index Min": 18,
+            "Sample Index Max": 21,
+            "Lyrics": [
+                "I could do anything to you",
+                "I could do anything for you",
+                "I could do anything to you"
+            ]
+        },
+        {
+            "Album": "Beach Music",
+            "Song": "Brite Boy",
+            "Sample Index Min": 0,
+            "Sample Index Max": 3,
+            "Lyrics": [
+                "Bright boy, I can help you",
+                "If you let me take your hand",
+                "Bring you right to promise land"
+            ]
+        },
+        {
+            "Album": "House of Sugar",
+            "Song": "Taking",
+            "Sample Index Min": 25,
+            "Sample Index Max": 33,
+            "Lyrics": [
+                "Lifted my spoonful of sugar",
+                "Taking",
+                "And taking",
+                "And taking",
+                "And taking",
+                "And taking",
+                "And taking",
+                "And taking"
+            ]
+        },
+        {
+            "Album": "Rocket",
+            "Song": "County",
+            "Sample Index Min": 4,
+            "Sample Index Max": 8,
+            "Lyrics": [
+                "I'm playing poker and",
+                "He's two cells over",
+                "Cops rush the hall, I saw",
+                "Blood on the wall"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Skipper",
+            "Sample Index Min": 0,
+            "Sample Index Max": 4,
+            "Lyrics": [
+                "Dave, are you a skipper?",
+                "Are you a tripper?",
+                "Do you need a bag?",
+                "Dave, are you a skipper?"
+            ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "Animals",
+            "Sample Index Min": 4,
+            "Sample Index Max": 8,
+            "Lyrics": [
+                "Rosie is my favorite dog",
+                "Takes her piss on the neighbor's lawn",
+                "Rosie is my favorite dog",
+                "Bites my hand when I go wrong"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "After Ur Gone",
+            "Sample Index Min": 0,
+            "Sample Index Max": 3,
+            "Lyrics": [
+                "After you're gone",
+                "How can we tell them",
+                "You're gone?"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Promise",
+            "Sample Index Min": 0,
+            "Sample Index Max": 3,
+            "Lyrics": [
+                "Broke my promise, baby",
+                "Sailed that ship in the yard",
+                "Well, it's hard"
+            ]
+        },
+        {
+            "Album": "Beach Music",
+            "Song": "Station",
+            "Sample Index Min": 12,
+            "Sample Index Max": 15,
+            "Lyrics": [
+                "I ran faster than anybody",
+                "Through the bushes into the store",
+                "Liquor cabinet and out the back door"
+            ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "Advice",
+            "Sample Index Min": 3,
+            "Sample Index Max": 6,
+            "Lyrics": [
+                "The world is full of fishes",
+                "But I trust you",
+                "But I trust you"
+            ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "People",
+            "Sample Index Min": 7,
+            "Sample Index Max": 8,
+            "Lyrics": [
+                "I took my favorite pill on Monday, it made me go backwards"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Harvey",
+            "Sample Index Min": 1,
+            "Sample Index Max": 4,
+            "Lyrics": [
+                "Success is the only thing I understand",
+                "Head back home to the place I grew up",
+                "Give my medals to the ones that I love"
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "Remember",
+            "Sample Index Min": 4,
+            "Sample Index Max": 7,
+            "Lyrics": [
+                "You look so different",
+                "You're walking across the tile floor",
+                "You look like Jesus on the water"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "Good",
+            "Sample Index Min": 0,
+            "Sample Index Max": 3,
+            "Lyrics": [
+                "Bouncing on the bed, you choked",
+                "Something else you said, it woke",
+                "Me up"
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "Let It Go",
+            "Sample Index Min": 10,
+            "Sample Index Max": 14,
+            "Lyrics": [
+                "I'm sure sorry about your son",
+                "I heard he was a lot of fun",
+                "And I'm sorry 'bout the way",
+                "That he ran away"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "New",
+            "Sample Index Min": 21,
+            "Sample Index Max": 25,
+            "Lyrics": [
+                "She don't talk",
+                "But she knows",
+                "Why the boy's",
+                "Fever grows"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Serpent Is Lord",
+            "Sample Index Min": 0,
+            "Sample Index Max": 4,
+            "Lyrics": [
+                "My boy",
+                "Dry eyed",
+                "Don't take",
+                "My side"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "Rules",
+            "Sample Index Min": 0,
+            "Sample Index Max": 3,
+            "Lyrics": [
+                "This is wrong",
+                "This is right",
+                "Why don't you understand?"
+            ]
+        },
+        {
+            "Album": "Rocket",
+            "Song": "Alina",
+            "Sample Index Min": 0,
+            "Sample Index Max": 8,
+            "Lyrics": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday",
+                "Alina, Alina, Alina"
+            ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "Sarah",
+            "Sample Index Min": 6,
+            "Sample Index Max": 12,
+            "Lyrics": [
+                "Be my guest",
+                "And keep the pace",
+                "To save your face",
+                "You'll never make",
+                "The place",
+                "Why do you even run the race?"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Hollow",
+            "Sample Index Min": 15,
+            "Sample Index Max": 20,
+            "Lyrics": [
+                "It can't be helped",
+                "I know him",
+                "I know how much",
+                "He wants",
+                "To stay"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Black Hair",
+            "Sample Index Min": 8,
+            "Sample Index Max": 12,
+            "Lyrics": [
+                "Eternal return",
+                "Eternal return",
+                "Eternal return",
+                "Eternal return"
+            ]
+        },
+        {
+            "Album": "House of Sugar",
+            "Song": "Near",
+            "Sample Index Min": 20,
+            "Sample Index Max": 25,
+            "Lyrics": [
+                "(Flower, water, earth, soul)",
+                "(Flower, water, earth, fire)",
+                "All I want is to be near",
+                "You, you, you, you",
+                "You, you, you, you"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "Wicked Boy",
+            "Sample Index Min": 14,
+            "Sample Index Max": 18,
+            "Lyrics": [
+                "And you think you wanna die",
+                "But I watch you close your eyes",
+                "Oh, it's alright",
+                "Wicked boy"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "New",
+            "Sample Index Min": 15,
+            "Sample Index Max": 20,
+            "Lyrics": [
+                "Bobby wakes up at noon, locks himself in his room",
+                "Used a belt",
+                "On his back",
+                "Hit it hard",
+                "Made it crack"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Boy",
+            "Sample Index Min": 19,
+            "Sample Index Max": 23,
+            "Lyrics": [
+                "A tree, it loses all its leaves",
+                "And you are dead to me",
+                "You watch someone you know",
+                "Grow into static company"
+            ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "16 Mirrors",
+            "Sample Index Min": 12,
+            "Sample Index Max": 18,
+            "Lyrics": [
+                "This one is a page where I",
+                "(Sixteen mirrors)",
+                "This one is a page where I",
+                "(Sixteen mirrors)",
+                "This one is a page where I",
+                "(Sixteen mirrors)"
+            ]
+        },
+        {
+            "Album": "House of Sugar",
+            "Song": "Hope",
+            "Sample Index Min": 0,
+            "Sample Index Max": 4,
+            "Lyrics": [
+                "He was a good friend of mine",
+                "He died",
+                "Why I write about it now?",
+                "Gotta honor him somehow"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "Candy",
+            "Sample Index Min": 0,
+            "Sample Index Max": 2,
+            "Lyrics": [
+                "Keep your body in the air",
+                "Shut your mouth, you stay up there"
+            ]
+        },
+        {
+            "Album": "God Save the Animals",
+            "Song": "SDOS",
+            "Sample Index Min": 0,
+            "Sample Index Max": 4,
+            "Lyrics": [
+                "Naked in my innocence",
+                "Tangled in my innocence",
+                "Naked in my innocence",
+                "Tangled in my innocence"
+            ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "Whale",
+            "Sample Index Min": 5,
+            "Sample Index Max": 9,
+            "Lyrics": [
+                "You get a piece of the whale",
+                "I'm gonna fry mine with cinnamon and a pear",
+                "It's a three-course meal",
+                "It's a three-course meal"
+            ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "Memory",
+            "Sample Index Min": 4,
+            "Sample Index Max": 8,
+            "Lyrics": [
+                "I'm helpin' it my own way",
+                "When I'm stuck in bed",
+                "A little more than a memory",
+                "Sticks in my head"
+            ]
+        },
+        {
+            "Album": "House of Sugar",
+            "Song": "Hope",
+            "Sample Index Min": 7,
+            "Sample Index Max": 13,
+            "Lyrics": [
+                "I awoke in the middle of the night",
+                "He spoke",
+                "With his eyes half closed",
+                "Can you get me something else to eat?",
+                "Got a hole in my chest",
+                "I can't take it anymore"
+            ]
+        },
+        {
+            "Album": "Beach Music",
+            "Song": "Thorns",
+            "Sample Index Min": 5,
+            "Sample Index Max": 9,
+            "Lyrics": [
+                "He was cross",
+                "I knew how lost",
+                "I knew my way",
+                "Oh, how I played him"
+            ]
+        },
+        {
+            "Album": "Beach Music",
+            "Song": "Salt",
+            "Sample Index Min": 8,
+            "Sample Index Max": 11,
+            "Lyrics": [
+                "Did you hear what I said?",
+                "I got salt in my head",
+                "Did you hear what I said?"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "Come Back",
+            "Sample Index Min": 6,
+            "Sample Index Max": 9,
+            "Lyrics": [
+                "Wish I could come back down",
+                "Something creepy buried right below the skin",
+                "Yeah, you said you'd cut it out if I won't let you in"
+            ]
+        },
+        {
+            "Album": "Beach Music",
+            "Song": "Salt",
+            "Sample Index Min": 14,
+            "Sample Index Max": 18,
+            "Lyrics": [
+                "I'm happy",
+                "Eyeing and tapping",
+                "A wrecking ball of fear",
+                "I'm lying"
+            ]
+        },
+        {
+            "Album": "Beach Music",
+            "Song": "Snot",
+            "Sample Index Min": 12,
+            "Sample Index Max": 15,
+            "Lyrics": [
+                "\"I love him",
+                "And 666",
+                "I want him"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Harvey",
+            "Sample Index Min": 13,
+            "Sample Index Max": 16,
+            "Lyrics": [
+                "I run in and turn on the light",
+                "Run my hands through his short black hair",
+                "I love you, Harvey, I don't care"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Boy",
+            "Sample Index Min": 4,
+            "Sample Index Max": 8,
+            "Lyrics": [
+                "Two babies",
+                "Dangerous and free",
+                "When I got home I told my baby",
+                "The story"
+            ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "Mary",
+            "Sample Index Min": 0,
+            "Sample Index Max": 3,
+            "Lyrics": [
+                "Mary is the girl that I wanna kiss",
+                "She's got big red eyes and big red lips",
+                "She's got big sharp teeth and big fat hips"
+            ]
+        },
+        {
+            "Album": "Rocket",
+            "Song": "Proud",
+            "Sample Index Min": 12,
+            "Sample Index Max": 16,
+            "Lyrics": [
+                "I wanna be a fake like you",
+                "Walk around with rocks in my shoes",
+                "I just wanna play the game",
+                "Big and fat and insane"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Hollow",
+            "Sample Index Min": 7,
+            "Sample Index Max": 12,
+            "Lyrics": [
+                "You made a big",
+                "Mistake",
+                "Go away",
+                "Don't talk too much",
+                "You'll hurt yourself"
+            ]
+        },
+        {
+            "Album": "God Save the Animals",
+            "Song": "Forgive",
+            "Sample Index Min": 0,
+            "Sample Index Max": 3,
+            "Lyrics": [
+                "Forgive yesterday, ooh-hoo-hoo-hoo",
+                "I choose today, uh-huh, huh",
+                "No stories, no mirrors, yeah, yeah, yeah, yeah"
+            ]
+        },
+        {
+            "Album": "House of Sugar",
+            "Song": "Hope",
+            "Sample Index Min": 17,
+            "Sample Index Max": 20,
+            "Lyrics": [
+                "Taking turns on the bed",
+                "Throwing bottles from the windows of the home",
+                "On Hope Street"
+            ]
+        },
+        {
+            "Album": "God Save the Animals",
+            "Song": "Mission",
+            "Sample Index Min": 11,
+            "Sample Index Max": 15,
+            "Lyrics": [
+                "Ain't gonna right your wrong",
+                "With a stupid love song",
+                "I've lived my whole damn life",
+                "I\u2019ve kept my mission tight"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Axesteel",
+            "Sample Index Min": 0,
+            "Sample Index Max": 4,
+            "Lyrics": [
+                "This is the reason",
+                "This is the reason I play",
+                "For you",
+                "This is my pick-axe"
+            ]
+        },
+        {
+            "Album": "Beach Music",
+            "Song": "Kicker",
+            "Sample Index Min": 7,
+            "Sample Index Max": 9,
+            "Lyrics": [
+                "Tough change for a tough guy",
+                "Twitching out the corner of your eye"
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "Things to Do",
+            "Sample Index Min": 0,
+            "Sample Index Max": 3,
+            "Lyrics": [
+                "Thinking of things to do",
+                "Yeah, only the cheapest things",
+                "Left there for you"
+            ]
+        },
+        {
+            "Album": "God Save the Animals",
+            "Song": "Mission",
+            "Sample Index Min": 5,
+            "Sample Index Max": 9,
+            "Lyrics": [
+                "I was asleep like a child",
+                "I walked the idiot mile",
+                "I flinched at the switchblade switching",
+                "I did good, I stayed out of the kitchen"
+            ]
+        },
+        {
+            "Album": "DSU",
+            "Song": "Harvey",
+            "Sample Index Min": 6,
+            "Sample Index Max": 8,
+            "Lyrics": [
+                "Drool comes down from the corner of his mouth",
+                "I say, \"I love you Harvey, you cut it out\""
+            ]
+        },
+        {
+            "Album": "God Save the Animals",
+            "Song": "Blessing",
+            "Sample Index Min": 18,
+            "Sample Index Max": 21,
+            "Lyrics": [
+                "Is a blessing (Is a blessing)",
+                "As I walk (As I walk)",
+                "Through the mud (Through th\u0435 mud)"
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "Let It Go",
+            "Sample Index Min": 3,
+            "Sample Index Max": 7,
+            "Lyrics": [
+                "Are you really there?",
+                "Are you really there?",
+                "It's a really big van",
+                "For a really big band"
+            ]
+        },
+        {
+            "Album": "God Save the Animals",
+            "Song": "SDOS",
+            "Sample Index Min": 9,
+            "Sample Index Max": 16,
+            "Lyrics": [
+                "God is my designer",
+                "Jesus is my lawyer",
+                "Curled up in the shower",
+                "High above the tower"
+            ]
+        },
+        {
+            "Album": "House of Sugar",
+            "Song": "In My Arms",
+            "Sample Index Min": 4,
+            "Sample Index Max": 6,
+            "Lyrics": [
+                "You know who was in my arms",
+                "You know who was in my arms"
+            ]
+        },
+        {
+            "Album": "Beach Music",
+            "Song": "Thorns",
+            "Sample Index Min": 14,
+            "Sample Index Max": 19,
+            "Lyrics": [
+                "Twist until you're itching",
+                "Beg me to come through",
+                "Out he goes",
+                "Part of a whole",
+                "Puppet of mine"
+            ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "Adam",
+            "Sample Index Min": 20,
+            "Sample Index Max": 24,
+            "Lyrics": [
+                "I took it",
+                "An hour ago",
+                "He's crying in the snow",
+                "I want him so"
+            ]
+        },
+        {
+            "Album": "Beach Music",
+            "Song": "Station",
+            "Sample Index Min": 0,
+            "Sample Index Max": 2,
+            "Lyrics": [
+                "If I could look past it I'd be",
+                "Big and free"
+            ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "Kute",
+            "Sample Index Min": 3,
+            "Sample Index Max": 4,
+            "Lyrics": [
+                "You look like someone I could bury in the garden"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "Sandy",
+            "Sample Index Min": 7,
+            "Sample Index Max": 10,
+            "Lyrics": [
+                "My name is Sandy; I'm 14 years old",
+                "And sometimes I hate you",
+                "But right now, I just wanna go home"
+            ]
+        },
+        {
+            "Album": "House of Sugar",
+            "Song": "Taking",
+            "Sample Index Min": 17,
+            "Sample Index Max": 21,
+            "Lyrics": [
+                "And coming",
+                "And coming",
+                "And coming",
+                "And coming"
+            ]
+        },
+        {
+            "Album": "God Save the Animals",
+            "Song": "Blessing",
+            "Sample Index Min": 16,
+            "Sample Index Max": 19,
+            "Lyrics": [
+                "Every day",
+                "Every day (Every day)",
+                "Is a blessing (Is a blessing)"
+            ]
+        },
+        {
+            "Album": "House of Sugar",
+            "Song": "In My Arms",
+            "Sample Index Min": 6,
+            "Sample Index Max": 9,
+            "Lyrics": [
+                "He laid his head back on my chest",
+                "Once had a wife, now nobody's left",
+                "You said the song makes you wanna do bad things, yeah"
+            ]
+        },
+        {
+            "Album": "House of Sugar",
+            "Song": "Walk Away",
+            "Sample Index Min": 4,
+            "Sample Index Max": 7,
+            "Lyrics": [
+                "Someday I'm gonna walk away from you",
+                "Not today, not today",
+                "Not today, not today"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "Mis",
+            "Sample Index Min": 7,
+            "Sample Index Max": 12,
+            "Lyrics": [
+                "I guess I don't need her around",
+                "I just do what I do best when I'm down",
+                "Paint the problem",
+                "Into a picture",
+                "Twist my arm till I make a sound"
+            ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "Change",
+            "Sample Index Min": 15,
+            "Sample Index Max": 18,
+            "Lyrics": [
+                "I don't like how things change",
+                "I don't like how things change",
+                "I don't like how things change"
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "Gnaw",
+            "Sample Index Min": 12,
+            "Sample Index Max": 15,
+            "Lyrics": [
+                "And please don't cry",
+                "I am not your brother",
+                "I am not your lover"
+            ]
+        },
+        {
+            "Album": "Race",
+            "Song": "House",
+            "Sample Index Min": 0,
+            "Sample Index Max": 4,
+            "Lyrics": [
+                "When you're young",
+                "Yeah, you're a loaded gun",
+                "So, don't worry honey, you'll go right back",
+                "Where you started from"
+            ]
+        },
+        {
+            "Album": "Trick",
+            "Song": "Kute",
+            "Sample Index Min": 12,
+            "Sample Index Max": 16,
+            "Lyrics": [
+                "She looks like a baby",
+                "You love me",
+                "Do you love me?",
+                "You wanna die"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "Mis",
+            "Sample Index Min": 0,
+            "Sample Index Max": 4,
+            "Lyrics": [
+                "My baby's alright",
+                "She just doesn't wanna see me tonight",
+                "Not for a minute",
+                "Not for a second"
+            ]
+        },
+        {
+            "Album": "Rules",
+            "Song": "Message",
+            "Sample Index Min": 6,
+            "Sample Index Max": 10,
+            "Lyrics": [
+                "But I'm just stuck here by your window",
+                "Oh, look how you have changed"
+            ]
+        },
+        {
+            "Album": "House of Sugar",
+            "Song": "Cow",
+            "Sample Index Min": 16,
+            "Sample Index Max": 19,
+            "Lyrics": [
+                "Yes, I believe I made out fine",
+                "And yes, it's true",
+                "I never loved nobody"
+            ]
+        },
+        {
+            "Album": "Rocket",
+            "Song": "Brick",
+            "Sample Index Min": 9,
+            "Sample Index Max": 11,
+            "Lyrics": [
+                "I know that you're lying",
+                "You think I don't but I always fucking do"
+            ]
         }
     ]
 }
